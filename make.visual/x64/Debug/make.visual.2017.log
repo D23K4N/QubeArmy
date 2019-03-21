@@ -1,0 +1,27 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: Katalog pośredni (x64\Debug\) zawiera pliki udostępnione z innego projektu (LAB1.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  main.cpp
+c:\zpwm1\zpwm\armia\source\main.cpp(16): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+c:\zpwm1\zpwm\armia\source\main.cpp(112): warning C4552: „!”: Wynik wyrażenia nie jest używany
+c:\zpwm1\zpwm\armia\source\main.cpp(113): warning C4552: „!”: Wynik wyrażenia nie jest używany
+c:\zpwm1\zpwm\armia\source\main.cpp(183): warning C4305: "+=": obcięcie z "double" do "float"
+c:\zpwm1\zpwm\armia\source\main.cpp(184): warning C4305: "-=": obcięcie z "double" do "float"
+c:\zpwm1\zpwm\armia\source\main.cpp(189): warning C4305: "+=": obcięcie z "double" do "float"
+c:\zpwm1\zpwm\armia\source\main.cpp(241): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\zpwm1\zpwm\armia\source\main.cpp(245): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\zpwm1\zpwm\armia\source\main.cpp(249): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\zpwm1\zpwm\armia\source\main.cpp(253): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\zpwm1\zpwm\armia\source\main.cpp(258): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\zpwm1\zpwm\armia\source\main.cpp(260): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\zpwm1\zpwm\armia\source\main.cpp(264): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\zpwm1\zpwm\armia\source\main.cpp(265): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\zpwm1\zpwm\armia\source\main.cpp(266): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\zpwm1\zpwm\armia\source\main.cpp(268): warning C4305: "argument": obcięcie z "double" do "float"
+c:\zpwm1\zpwm\armia\source\main.cpp(268): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\zpwm1\zpwm\armia\source\main.cpp(272): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\zpwm1\zpwm\armia\source\main.cpp(273): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\zpwm1\zpwm\armia\source\main.cpp(274): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\zpwm1\zpwm\armia\source\main.cpp(276): warning C4305: "argument": obcięcie z "double" do "float"
+c:\zpwm1\zpwm\armia\source\main.cpp(276): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\zpwm1\zpwm\armia\source\main.cpp(280): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\zpwm1\zpwm\armia\source\main.cpp(282): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  make.visual.2017.vcxproj -> C:\ZPWM1\ZPwM\armia\make.visual\x64\Debug\LAB5.exe
